@@ -1,0 +1,17 @@
+#div1{
+    background-color: cyan;
+    height: 300px;
+    width: 300px;
+    margin: 10px 100px;
+    border: solid rebeccapurple;
+    color: maroon;
+}
+#div{
+    background-color:midnightblue;
+    height: 300px;
+    width: 300px;
+    margin: 10px 200px 50px 800px;
+    border: solid hotpink;
+    color: seagreen;
+
+} 
